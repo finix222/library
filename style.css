@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+.logo-text{
+    color: #f09d51;
+    font-size: 1.1em;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.navbar{
+    align-items: center;
+    background-color: #ececec;
+    display: flex;
+    justify-content: space-between;
+    /* height: 10vh; */
+}
